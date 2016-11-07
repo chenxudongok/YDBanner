@@ -1,0 +1,2 @@
+# YDBannerView
+高仿京东BannerView滚动以及编号旋转效果
